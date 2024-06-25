@@ -20,5 +20,8 @@
         "titleBar.inactiveForeground": "#15202b99"
     },
     "peacock.color": "#ffffff",
-    "editor.fontSize": 13.5
+    "editor.fontSize": 13.5, 
+    "editor.fontWeight": 349,
+    // "editor.fontFamily": "PT Mono, Cascadia Code,  IBM Plex Mono, 'Courier New', monospace",
+    "terminal.integrated.fontSize": 13.3,
 }
